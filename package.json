@@ -1,0 +1,22 @@
+{
+  "name": "lab_painter_decorator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha models/specs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laurelinex/Wk6_D2_lab_painter_decorator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laurelinex/Wk6_D2_lab_painter_decorator/issues"
+  },
+  "homepage": "https://github.com/Laurelinex/Wk6_D2_lab_painter_decorator#readme",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
